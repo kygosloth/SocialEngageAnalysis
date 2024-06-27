@@ -9,7 +9,7 @@ README.md: This file, providing an overview of the project.
 images/: Directory containing images generated during data visualization (histograms, boxplots, etc.).
 Requirements
 Python 3.x
-Libraries: pandas, numpy, matplotlib, seaborn
+Libraries: pandas, numpy, matplotlib
 Running the Project
 Clone this repository to your local machine:
 bash
